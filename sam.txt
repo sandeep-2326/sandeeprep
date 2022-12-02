@@ -1,0 +1,5 @@
+1001 telangana 
+1002 kolkatta
+1003 goa
+1004 andhra
+1005 asam
